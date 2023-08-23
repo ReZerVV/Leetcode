@@ -1,0 +1,12 @@
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\bin\Debug\net7.0\Leetcode.Solutions.deps.json
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\bin\Debug\net7.0\Leetcode.Solutions.dll
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\bin\Debug\net7.0\Leetcode.Solutions.pdb
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.csproj.AssemblyReference.cache
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.AssemblyInfoInputs.cache
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.AssemblyInfo.cs
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.dll
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\refint\Leetcode.Solutions.dll
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\Leetcode.Solutions.pdb
+C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Solutions\obj\Debug\net7.0\ref\Leetcode.Solutions.dll
