@@ -2,6 +2,9 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=61658d02_002D77d8_002D46c6_002D9cde_002D92213952c083/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Leetcode.Test&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Test" Presentation="&amp;lt;Leetcode.Test&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a5e4bba_002D1733_002D40b1_002Db96d_002D967a96418b88/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Leetcode.Test&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Test" Presentation="&amp;lt;Leetcode.Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb9b6547_002Dc1f6_002D4ee3_002Da770_002D61867cee3278/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Leetcode.Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="C:\Users\kiril\Projects\Projects_C#\Leetcode\Leetcode.Test" Presentation="&amp;lt;Leetcode.Test&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
